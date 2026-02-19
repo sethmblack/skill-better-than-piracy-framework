@@ -4,7 +4,8 @@ description: Analyze entrenched competitors (including free, illegal, or informa
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.3469
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - better-than-piracy-framework
 - writing
